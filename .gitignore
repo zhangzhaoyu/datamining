@@ -1,0 +1,8 @@
+model/target
+target
+dbg
+*.o
+*.a
+.idea
+*.class
+*.iml
